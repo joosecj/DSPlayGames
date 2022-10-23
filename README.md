@@ -11,8 +11,7 @@ Projeto desenvolvido teve o objetivo de criar uma página web usando HTML, CSS e
 
 Experimente live demo ou clique [aqui](https://joosecj.github.io/DSPlayGames/):
 
-<p align='center'> <img src="https://i.imgur.com/luh9ciH.gif"/></p>
-
+![](https://i.imgur.com/luh9ciH.gif)
 
 <h2>Como criar e executar o DSPlayGames localmente</h2>
 
